@@ -65,13 +65,9 @@
 < div  alinhar = " centro " >
   < h3 >< b >📍 Contagem de visitantes do perfil</ b ></ h3 >
 </div> _ _
-
-< p  alinhar = " centro " >   
+   
   < img  src = " https://profile-counter.glitch.me/victormoreiraofc/count.svg " />  
 
-< p  alinhar = " centro " >
   <img
     src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</ p >
+    alt="Ilustração do número de visitantes no perfil">
