@@ -1,36 +1,77 @@
 ### Hi there 👋
 
-@@ -1,4 +1,4 @@
-< img  src = " https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png "  min-width = " 400px "  max-width = " 400px "  width = " 400px "  align = " certo " >
-< img  src = " https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png "  alt = " ilustração de um computador " min-width = " 400px " max-width = " 400px " largura = " 400px " align = " direita " >    
+### ⚙️ GitHub Analytics
+# Olá, Escreva Seu Nome! ### ⚙️ GitHub Analytics
 
-< p  alinhar = " esquerda " >
-  Faça uma breve aprendizagem com o seu nome e não esqueça a < strong >Sua área</ strong >.< br >
-@@ -18,18 +18,18 @@
+<tabela> _ _
+  <tr> _ _
+    <td> _ _
+       < img  align = " left "  src = " https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true "  alt = " Github stats " />
+      </ td >
+      <img
+        alinhar = "esquerda"
+        src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Estatísticas do GitHub"
+      />
+    </ td >
+    <td> _ _
+< img  align = " left "  src = " https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact "  alt = " Estatísticas do Github " />
+  </ td >
+      <img
+        alinhar = "esquerda"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Estatísticas do GitHub"
+      />
+    </ td >
+    <td> _ _
+<br /> _ _
+< img  align = " left "  src = " https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false "  alt = " Github stats " />
+</ td >
+      <br /> _ _
+      <img
+        alinhar = "esquerda"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false"
+        alt="Estatísticas do GitHub"
+      />
+    </ td >
+  </tr> _ _
+</ tabela >< br />
+</ tabela >
+<br /> _ _
+
+---
+--- ### 🏆 Troféu de perfil do GitHub:
+
+### 🏆 Troféu de perfil do GitHub:
+< p  alinhar = " centro " >
+<a href=" https://github.com/ryo-ma/github-profile-trophy " > _  _ _ _ _ _ _
+  < largura img  = 800 src = " https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true " /> 
+</a> _ _
+  <um
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      largura = "800"
+      src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a> _ _
 </ p >
 
-< p  alinhar = " esquerda " >
-  <a href="#" alt="Gmail" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL " /></ a >
-  <a href = "#" title = "Gmail" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL "  alt = " Gmail " />< / uma >
+---
+  
+< div  alinhar = centro >
 
-  <a href = "#" alt = "LinkedIn" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN " /></ a >
-  <a href = "#" title = "LinkedIn" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN "  alt = " LinkedIn " /></ a >
+< div  alinhar = " centro " >
+  < h3 >< b >📍 Contagem de visitantes do perfil</ b ></ h3 >
+</div> _ _
 
-  <a href="#" alt="WhatsApp" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP " /></ a >
-  <a href="#"title="WhatsApp" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP " alt = " WhatsApp " />< / uma > 
+< p  alinhar = " centro " >   
+  < img  src = " https://profile-counter.glitch.me/victormoreiraofc/count.svg " />  
 
-  <a href="#" alt="Facebook" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK " /></ a >
-  <a href="#"title="Facebook" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK " alt = " Facebook " />< / uma > 
-
-  <a href="#" alt="Instagram" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM " /></ a >
-  <a href="#"title="Instagram" > _  _ _ _ _ _  _ _ _ _ _ _
-  < img  src = " https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM " alt = " Instagram " />< / uma > 
+< p  alinhar = " centro " >
+  <img
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</ p >
